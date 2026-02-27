@@ -60,7 +60,7 @@ regular-django/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/youruser/your-boilerplate-repo.git my-new-project
+git clone https://github.com/Abd0uk/django-allauth-boilerplate.git my-new-project
 cd my-new-project
 ```
 
