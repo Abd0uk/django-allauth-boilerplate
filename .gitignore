@@ -134,8 +134,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
+# Environments (.env is allowed as the secret value has to be changed)
 .envrc
 .venv
 env/
