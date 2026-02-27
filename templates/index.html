@@ -1,0 +1,9 @@
+{% extends "allauth/layouts/entrance.html" %}
+{% load allauth %}
+{% block head_title %}{{ SITE_NAME }}{% endblock %}
+{% block content %}
+    {% element h1 %}
+        Example Project
+    {% endelement %}
+    <p>Welcome to the django boilerplate example project.</p>
+{% endblock content %}
